@@ -87,7 +87,7 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 ![Shape4](RackMultipart20230406-1-vb25bp_html_237499165a11f2b9.gif)
 
-- Movie recommendation using machine learning is a popular application of machine learning that aims to predict which movies a user would like based on their previous ratings or viewing history. Here's a general approach to building a movie recommendation system using machine learning.
+- Movie recommendation using machine learning is a popular application of machine learning that aims to predict which movies a user would like based on their previous ratings or viewing history. Here's a general approach on building a movie recommendation system using machine learning.
 
 ![](RackMultipart20230406-1-vb25bp_html_1d9a1d344ebd0db.png)
 
